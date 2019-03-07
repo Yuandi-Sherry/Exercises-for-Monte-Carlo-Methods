@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b11f80d-a66e-40a0-9fbb-3ef6761b3e92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2_v0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3_v0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_v0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q2_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q2_v0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q3_v0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q3_v0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test3.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q2_v0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="28" column="18" lean-forward="true" selection-end-line="38" />
+            <state relative-caret-position="266">
+              <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q3_v0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -29,10 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q3_v0.py">
+        <entry file="file://$PROJECT_DIR$/Q1_v0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="590">
+              <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -55,15 +69,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Q1_v0.py" />
         <option value="$PROJECT_DIR$/Q2_v0.py" />
         <option value="$PROJECT_DIR$/Q3_v0.py" />
+        <option value="$PROJECT_DIR$/Q1_v0.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-15" />
-    <option name="width" value="1628" />
+    <option name="width" value="1630" />
     <option name="height" value="1715" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -101,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q3_v0">
+  <component name="RunManager" selected="Python.Q1_v0">
     <configuration name="Q1_v0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Homework1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,9 +186,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q3_v0" />
-        <item itemvalue="Python.Q2_v0" />
         <item itemvalue="Python.Q1_v0" />
+        <item itemvalue="Python.Q2_v0" />
+        <item itemvalue="Python.Q3_v0" />
       </list>
     </recent_temporary>
   </component>
@@ -209,8 +223,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3250444" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3250444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
@@ -225,20 +239,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/Q1_v0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="37" column="34" selection-end-line="41" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q2_v0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="28" column="18" lean-forward="true" selection-end-line="38" />
+        <state relative-caret-position="266">
+          <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="42" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -247,8 +251,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q3_v0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="209">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q1_v0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
